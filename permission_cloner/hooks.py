@@ -5,3 +5,5 @@ app_publisher = "Your Name"
 app_description = "Tool to copy role permissions from one role to another"
 app_email = "your@email.com"
 app_license = "MIT"
+
+# No frontend assets, so this app skips esbuild
