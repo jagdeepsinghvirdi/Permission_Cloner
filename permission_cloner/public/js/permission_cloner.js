@@ -1,4 +1,5 @@
 
+// This JS will now be moved to a Custom Script manually
 frappe.ui.form.on('Permission Cloner', {
   refresh(frm) {
     if (frappe.user.has_role('System Manager')) {
