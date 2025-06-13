@@ -1,0 +1,22 @@
+
+{
+ "doctype": "DocType",
+ "name": "Permission Cloner",
+ "module": "Permission Cloner",
+ "custom": 0,
+ "is_single": 1,
+ "fields": [
+  {
+   "fieldname": "source_role",
+   "label": "Source Role",
+   "fieldtype": "Link",
+   "options": "Role"
+  },
+  {
+   "fieldname": "target_role",
+   "label": "Target Role",
+   "fieldtype": "Link",
+   "options": "Role"
+  }
+ ]
+}
